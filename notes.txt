@@ -1,0 +1,66 @@
+instead of globally using create-react-app
+
+first uninstall 
+sudo npm uninstall -g create-react-app
+sudo npm uninstall create-react-app
+
+we can use yarn to do this
+we have three alternatives
+
+1) npx create-react-app confusion
+
+2) npm init react-app confusion
+
+3) yarn create react-app confusion
+
+git reset --hard <log_number>
+
+git log --oneline | cat > 
+
+git log --oneline | cat > commit_hist.txt 
+
+git checkout <log_number>
+
+
+Setting a new Project
+
+npx create-react-app confusion
+npm start / yarn start
+
+yarn add bootstrap@4.0.0
+yarn add reactstrap@5.0.0
+yarn add react-popper@0.9.2
+yarn add react-router-dom@4.2.2
+yarn add redux@3.7.2
+yarn add react-redux@5.0.7
+yarn add react-redux-form@1.16.8
+yarn add cross-fetch@2.1.0
+yarn add react-transition-group@2.3.0
+yarn add react-animation-components@3.0.0
+yarn add prop-types@15.6.0
+
+Add this to index.js in src folder
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+git init
+git add .
+git commit -m "Initial Commit"
+
+npm install json-server -g
+
+json-server --watch db.json -p 3001 -d 2000
+
+npm run build / yarn build
+
+
+
+
+
+
+
+
+
+
+
+

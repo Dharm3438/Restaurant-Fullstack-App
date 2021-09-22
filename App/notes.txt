@@ -1,0 +1,6 @@
+sudo npm i -g expo-cli
+expo init confusion
+npm start
+
+yarn add react-native-elements@beta
+yarn add react-navigation@2.0.1
